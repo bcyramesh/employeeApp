@@ -2,7 +2,7 @@
  * 
  */
 package com.haarisinfo.entity;
-
+//karthiktest
 /**
  * @author 
  * employee entity class
